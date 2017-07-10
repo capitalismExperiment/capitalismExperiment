@@ -1,7 +1,7 @@
 # capitalismExperiment
 A repository for experiments to be done with friends, on profiting from the legal and social support systems available for Capitalism in India, perhaps with some changes from the usual ways of doing things. 
 
-Auto-generated website is at https://sohrabsaran.github.io/capitalismExperiment/
+Auto-generated website is at https://capitalismExperiment.github.io/capitalismExperiment/
 
 Aim of Experiment: 
 - In the business world, top of the pecking order seem to be the directors + majority shareholders of corporations such as limited liability companies. The risks are there for this reward. Aim is to try out and quantify the risk and if possible, reap the rewards. Else in non-entreprenuer mode, industry appears to struggle to utilize all categories of potential employees and still follows antiquated management policies that may not benefit the economy (leave aside meeting basic CSR goals). 
