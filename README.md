@@ -1,3 +1,6 @@
+---
+---
+
 # capitalismExperiment
 A repository for experiments to be done with friends, on profiting from the legal and social support systems available for Capitalism in India, perhaps with some changes from the usual ways of doing things. 
 
